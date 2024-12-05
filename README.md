@@ -21,7 +21,7 @@ This project is a visually appealing **Image Gallery** created with **HTML** and
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-    git clone 
+    git clone https://priya-dharshi-ni.github.io/Image-Gallery/
    ```
 2. Open the `index.html` file in any browser to view the website.  
 
