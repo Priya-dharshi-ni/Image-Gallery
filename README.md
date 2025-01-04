@@ -18,7 +18,7 @@ This project is a visually appealing **Image Gallery** created with **HTML** and
 ## Purpose
 - This project demonstrates basic front-end development skills using HTML and CSS (Flexbox), focusing on structure and style.
 
-## How to Use  
+## Visit  
 You can visit my **Image Gallery** by https://priya-dharshi-ni.github.io/Image-Gallery/
   
 ## Technologies Used  
